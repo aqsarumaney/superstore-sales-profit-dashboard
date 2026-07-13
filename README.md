@@ -54,7 +54,7 @@ This project is an interactive **Power BI dashboard** built using the Sample Sup
 
 ### Executive Dashboard
 
-![Executive Dashboard](executive-dashboard.jpeg)
+![Executive Dashboard](Executive Dashboard.jpeg)
 
 ---
 
