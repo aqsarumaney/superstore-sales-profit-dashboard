@@ -54,19 +54,19 @@ This project is an interactive **Power BI dashboard** built using the Sample Sup
 
 ### Executive Dashboard
 
-![Executive Dashboard](Executive Dashboard.jpeg)
+![Executive Dashboard](Executive%20Dashboard.jpeg)
 
 ---
 
 ### Sales Analysis
 
-*(We'll add the screenshot here in the next step.)*
+![Sales Analysis](Sales%20Analysis.jpeg)
 
 ---
 
 ### Profitability Analysis
 
-*(We'll add the screenshot here in the next step.)*
+![Profitability Analysis](Profit%20Analysis.jpeg)
 
 ---
 
